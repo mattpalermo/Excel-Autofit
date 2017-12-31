@@ -11,7 +11,8 @@ Compatible with Windows and Mac.
 
 ## Download
 
-[Autofit.xlam]() (version 0.1.0)
+[Autofit.xlam](https://github.com/mattpalermo/Excel-Autofit/releases/download/v0.1.0/Autofit.xlam)
+(version 0.1.0)
 
 ## Instructions
 
